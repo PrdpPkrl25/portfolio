@@ -127,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .banner {
   /*background: lightblue;*/
-  background-image: url("../assets/banner.jpg");
+  background-image: url("../assets/banner.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
