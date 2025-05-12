@@ -6,9 +6,6 @@ body {
   margin: 0;
   padding: 0;
   font-family: "ABeeZee", sans-serif !important;
-  /*background-image: url("../assets/bg.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;*/
   background: black !important;
   color: #b3b3b3 !important;
 }
@@ -47,8 +44,6 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
 }
 .hire-me-button span:hover {
-  /*background: #1a1a1a;*/
-  /*color: white;*/
   border: 1px solid #fb5454;
 }
 
@@ -63,7 +58,6 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   margin: 0 auto;
   opacity: 0.9;
-  /*margin-top: -70px;*/
 }
 
 .section-title-text {
@@ -126,7 +120,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .banner {
-  /*background: lightblue;*/
   background-image: url("../assets/pradip.JPG");
   background-size: contain;
   background-repeat: no-repeat;
