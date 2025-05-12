@@ -127,9 +127,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .banner {
   /*background: lightblue;*/
-  background-image: url("../assets/banner.png");
+  background-image: url("../assets/pradip.jpg");
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: left center;
 }
 
 .about-section {
