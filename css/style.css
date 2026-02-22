@@ -102,6 +102,10 @@ h1, h2, h3, h4, h5, h6 {
   min-height: 80vh;
 }
 
+.about-me-description{
+  text-align: justify;
+}
+
 .find-me {
   min-height: 90vh;
   background: url("https://images.unsplash.com/photo-1516486392848-8b67ef89f113?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80");
@@ -128,6 +132,16 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
   min-height: 100vh;
   margin: 0 !important;
+}
+
+/* Keep banner text block centered within the hero */
+.banner .text-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
 }
 @media (max-width: 767px) {
   .banner-row {
@@ -170,6 +184,10 @@ h1, h2, h3, h4, h5, h6 {
   }
   .hire-me-button {
     margin-top: 30px;
+  }
+
+  .about-section {
+    padding: 100px 0;
   }
 }
 
